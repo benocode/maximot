@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author benocode
+ *
+ */
+module maximot {
+}
